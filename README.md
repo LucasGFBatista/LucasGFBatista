@@ -1,9 +1,12 @@
+<!-- <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=lucasgfbatista&style=flat-square"> -->
 ### Oi, tentando aprender algumas coisas ai!
 
 <div align="center">
   <a href="https://github.com/lucasgfbatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgfbatista&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgfbatista&theme=react">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfbatista&layout=fullt&langs_count=7&theme=react"/>
+   
 </div>
 
   
