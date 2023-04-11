@@ -4,7 +4,34 @@ Hi 👋 My name is Lucas Gonçalves
 Junior Developer
 ----------------
 
+<details>
+<summary>
+<strong>Sobre mim/ About me</strong>
+</summary>
+<br>
+<details open>
+
+<summary>
+<strong>Português 🇧🇷</strong>
+</summary>
+
+
+<p>
+Sou um desenvolvedor web com experiência em PHP, Java e C++. Além disso, tenho habilidades em HTML, CSS e Bootstrap como framework, bem como experiência no banco de dados MySQL. Também sou proficiente no uso de ferramentas como Git e Figma para controle de versão e design, respectivamente. Eu sempre me esforço para escrever um código limpo e eficiente, mantendo a alta qualidade do produto final. Procuro constantemente aprender e melhorar minhas habilidades de desenvolvimento web.
+</p>
+</details>
+<details open>
+
+<summary>
+<strong>English</strong>
+</summary>
+
+<p>
 I am a web developer with experience in PHP, Java, and C++. Additionally, I have skills in HTML, CSS, and Bootstrap as a framework, as well as experience in the MySQL database. I am also proficient in using tools like Git and Figma for version control and design, respectively. I always strive to write clean and efficient code while maintaining the high quality of the final product. I seek to constantly learn and improve my web development skills.
+</p>
+</details>
+</details>
+
 
 * 🌍  I'm based in Salvador, Bahia - Brasil
 * 🖥️  See my portfolio at [My Portfolio](http://lucasgfbatista.github.io/)
